@@ -18,4 +18,4 @@ Proste narzędzie konsolowe napisane w języku C# do skanowania portów TCP w ok
    ```bash
    dotnet run
 
-   Narzędzie służy wyłącznie do celów edukacyjnych i powinno być używane na własnych hostach lub w kontrolowanych środowiskach testowych.
+Narzędzie służy wyłącznie do celów edukacyjnych i powinno być używane na własnych hostach lub w kontrolowanych środowiskach testowych.
